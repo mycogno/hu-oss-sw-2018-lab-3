@@ -1,2 +1,4 @@
-# hu-oss-sw-2018-lab-3
-HY ERICA
+OSS SW Lab.
+===========
+
+ * 'Jang Dong-gun' 
